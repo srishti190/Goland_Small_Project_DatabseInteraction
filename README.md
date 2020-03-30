@@ -1,1 +1,1 @@
-# Goland_Small_Project_DatabseInteraction
+# Basic crud App of shipping Model
